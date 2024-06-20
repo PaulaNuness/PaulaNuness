@@ -6,7 +6,7 @@
 **********************************************************************************
 
 ## Proyectos Destacados
-- [Repositorios](https://github.com/PaulaNuness?tab=repositories):
+- [Repositorios](https://github.com/PaulaNuness?tab=repositories)
 
 **********************************************************************************
 
