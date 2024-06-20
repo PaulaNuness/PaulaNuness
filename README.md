@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Paula. 👋
 
-<!--
-**PaulaNuness/PaulaNuness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Desarrolladora de software junior
+🌱 Actualmente estoy ampliando mis habilidades en el área de QA.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- [Repositorios](https://github.com/PaulaNuness?tab=repositories):
+
+## Habilidades Técnicas ✨
+- **Lenguajes**: Java, Python, JavaScript, HTML, CSS
+- **Frameworks**: Spring Boot, Spring MVC, Hibernate
+- **Bases de Datos**: MySQL
+- **Herramientas**: Jira, Git, Docker
+- **APIs**: Desarrollo y consumo de APIs
+
+## Contacto 📫
+- [LinkedIn](www.linkedin.com/in/paula-nunes-es)
+- [Email](paulanunes.es@hotmail.com)
+
