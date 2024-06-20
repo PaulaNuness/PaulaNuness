@@ -67,7 +67,7 @@
       <br>Jira
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354202/swagger.svg" width="48" height="48" alt="Swagger" />
+      <img src="https://en.wikipedia.org/wiki/Swagger_(software)#/media/File:Swagger-logo.png" width="48" height="48" alt="Swagger" />
       <br>Swagger
     </td>
     <td align="center" width="96">
