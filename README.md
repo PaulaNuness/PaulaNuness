@@ -1,7 +1,7 @@
 # Hola, soy Paula. 👋
 
-🔭 Desarrolladora de software junior
-🌱 Actualmente estoy ampliando mis habilidades en el área de QA.
+- 🔭 Desarrolladora de software junior
+- 🌱 Actualmente estoy ampliando mis habilidades en el área de QA.
 
 
 ## Proyectos Destacados
@@ -15,6 +15,6 @@
 - **APIs**: Desarrollo y consumo de APIs
 
 ## Contacto 📫
-- [LinkedIn](www.linkedin.com/in/paula-nunes-es)
-- [Email](paulanunes.es@hotmail.com)
+- [LinkedIn] --> www.linkedin.com/in/paula-nunes-es
+- [Email] --> paulanunes.es@hotmail.com
 
