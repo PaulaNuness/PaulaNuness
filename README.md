@@ -66,14 +66,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
       <br>Jira
     </td>
-    <td align="center" width="96">
-      <img src="https://en.wikipedia.org/wiki/Swagger_(software)#/media/File:Swagger-logo.png" width="48" height="48" alt="Swagger" />
-      <br>Swagger
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354202/postman.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
   </tr>
 </table>
 
