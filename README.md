@@ -66,13 +66,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
       <br>Jira
     </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
+      <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
     <br>Selenium
   </td>
-</tr>
+  </tr>
 
 </table>
 
